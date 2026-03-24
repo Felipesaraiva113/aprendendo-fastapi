@@ -1,1 +1,1 @@
-Api restfull simples desenvolvida para aprender os fundamentos básicos do framework FastApi.
+API de Gestão de Dados: Desenvolvido com FastAPI e SQLAlchemy, este projeto foca na implementação de rotas RESTful validadas com Pydantic. O objetivo principal foi consolidar conhecimentos em arquitetura de backend e versionamento de banco de dados com Alembic, utilizando o Postman para testes de requisições e garantia de performance.
